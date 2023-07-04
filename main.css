@@ -1,0 +1,36 @@
+h1{
+    color: aliceblue;
+    background-color: rgba(79, 33, 3, 0.816);
+    padding:20px;
+    text-align: center;
+}
+
+li{
+   color:aliceblue;
+   padding: 5px;
+   list-style: none;
+}
+
+li :hover{
+background-color:mediumblue;
+
+
+}
+
+.movies{
+   display: flex;
+   flex-wrap: wrap;
+margin-top: 20px;
+}
+
+.movie{
+flex: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+
+h4{
+  text-align: center;
+   background-color:rgba(79, 33, 3, 0.816) ;
+   padding: 15px;
+}
